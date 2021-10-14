@@ -1,16 +1,1 @@
-0.0.0.0	counter-strike.com.tw
-0.0.0.0	counter-strike.net
-0.0.0.0	counter-strike3.net
-0.0.0.0	counter-strike4.com
-0.0.0.0	counter-strike4.net
-0.0.0.0	counter-strike5.com
-0.0.0.0	counter-strike5.net
-0.0.0.0	counterstrike.com.tw
-0.0.0.0	counterstrike.tw
-0.0.0.0	counterstrike3.com
-0.0.0.0	counterstrike3.net
-0.0.0.0	counterstrike4.com
-0.0.0.0	counterstrike4.net
-0.0.0.0	counterstrike5.com
-0.0.0.0	counterstrike5.net
-0.0.0.0	counterstriketv.com
+testtest
