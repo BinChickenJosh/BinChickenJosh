@@ -1,3 +1,5 @@
 otnolatrnup.com
 
 minio.replaymod.com
+
+deeplink-bh.datafeedfile.com
